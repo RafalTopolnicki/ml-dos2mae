@@ -1,1 +1,3 @@
 experiments/*/*/fold_*/tensorboard/
+.idea/
+*.xyz
