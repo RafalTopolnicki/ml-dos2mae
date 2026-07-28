@@ -1,0 +1,6 @@
+{
+    "total_epochs": 690,
+    "target_cols": [
+        "target_MAE"
+    ]
+}

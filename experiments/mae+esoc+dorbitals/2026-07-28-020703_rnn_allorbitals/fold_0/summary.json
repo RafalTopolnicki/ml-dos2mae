@@ -1,0 +1,24 @@
+{
+    "total_epochs": 575,
+    "target_cols": [
+        "target_MAE",
+        "target_bottom_d_xy:x2-y2",
+        "target_bottom_d_xy:xz",
+        "target_bottom_d_xy:yz",
+        "target_bottom_d_xz:x2-y2",
+        "target_bottom_d_yz:x2-y2",
+        "target_bottom_d_yz:xz",
+        "target_bottom_d_yz:z2-r2",
+        "target_bottom_d_z2-r2:xz",
+        "target_ecos_bottom",
+        "target_ecos_top",
+        "target_top_d_xy:x2-y2",
+        "target_top_d_xy:xz",
+        "target_top_d_xy:yz",
+        "target_top_d_xz:x2-y2",
+        "target_top_d_yz:x2-y2",
+        "target_top_d_yz:xz",
+        "target_top_d_yz:z2-r2",
+        "target_top_d_z2-r2:xz"
+    ]
+}
